@@ -60,7 +60,7 @@ The purpose of DecisionLab is to provide an accessible and interactive learning 
 
 This project was developed with assistance from ChatGPT Go (OpenAI).
 
-**AI conversation:** [Insert the public ChatGPT conversation link here]
+**AI conversation:** https://chatgpt.com/share/6aed2f33-036c-83ea-adaa-af793fef1f43
 
 ---
 
